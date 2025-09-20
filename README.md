@@ -4,6 +4,7 @@ Repository untuk mata kuliah Pengantar Machine Learning - Figo Firnanda - 221230
 **Nama:** Figo Firnanda.
 **NIM:** 221230039.
 **Kelas:** 04 A.
+**Makanan Favorit:** Ayam Geprek.
 
 Repository ini berisi semua tugas, proyek, dan catatan untuk mata kuliah **Pengantar Machine Learning** Semester Ganjil 2025/2026.
 
